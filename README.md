@@ -1,2 +1,3 @@
-# club-manager
-Manage Social Clubs easily
+# Node Express Typescript starter
+
+This project is a simple startup point for your next application!
