@@ -1,2 +1,2 @@
-# node-expres-typescript-starter
-A node typescript starter
+# club-manager
+Manage Social Clubs easily
